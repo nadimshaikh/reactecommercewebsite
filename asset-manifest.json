@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reactecommercewebsite/static/css/main.d6558245.chunk.css",
+    "main.js": "/reactecommercewebsite/static/js/main.e66efb99.chunk.js",
+    "main.js.map": "/reactecommercewebsite/static/js/main.e66efb99.chunk.js.map",
+    "runtime-main.js": "/reactecommercewebsite/static/js/runtime-main.901f07bf.js",
+    "runtime-main.js.map": "/reactecommercewebsite/static/js/runtime-main.901f07bf.js.map",
+    "static/css/2.d34346ea.chunk.css": "/reactecommercewebsite/static/css/2.d34346ea.chunk.css",
+    "static/js/2.bcadd105.chunk.js": "/reactecommercewebsite/static/js/2.bcadd105.chunk.js",
+    "static/js/2.bcadd105.chunk.js.map": "/reactecommercewebsite/static/js/2.bcadd105.chunk.js.map",
+    "index.html": "/reactecommercewebsite/index.html",
+    "precache-manifest.14ad8f93833617853331cda185389fa3.js": "/reactecommercewebsite/precache-manifest.14ad8f93833617853331cda185389fa3.js",
+    "service-worker.js": "/reactecommercewebsite/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/reactecommercewebsite/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.d6558245.chunk.css.map": "/reactecommercewebsite/static/css/main.d6558245.chunk.css.map",
+    "static/js/2.bcadd105.chunk.js.LICENSE.txt": "/reactecommercewebsite/static/js/2.bcadd105.chunk.js.LICENSE.txt",
+    "static/media/Adidas.jpg": "/reactecommercewebsite/static/media/Adidas.61d1812a.jpg",
+    "static/media/Cr.jpg": "/reactecommercewebsite/static/media/Cr.d498cdba.jpg",
+    "static/media/Hrx.jpg": "/reactecommercewebsite/static/media/Hrx.4cdbe80b.jpg",
+    "static/media/Hrxx.jpg": "/reactecommercewebsite/static/media/Hrxx.c2375148.jpg",
+    "static/media/Nike.jpg": "/reactecommercewebsite/static/media/Nike.00479544.jpg",
+    "static/media/Nikee.jpg": "/reactecommercewebsite/static/media/Nikee.46cc472c.jpg",
+    "static/media/Puma.jpg": "/reactecommercewebsite/static/media/Puma.e5d89e5d.jpg",
+    "static/media/App.css": "/reactecommercewebsite/static/media/bg4.408089c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.901f07bf.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.bcadd105.chunk.js",
+    "static/css/main.d6558245.chunk.css",
+    "static/js/main.e66efb99.chunk.js"
+  ]
+}
